@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSock.Server", "WebSock.Server\WebSock.Server.csproj", "{4CFCA411-FD49-4A83-977B-2FD021EB566A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ws.Client", "ws.Client\ws.Client.csproj", "{B5AF2019-DB7B-44B0-A72F-99C96EB02E85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CFCA411-FD49-4A83-977B-2FD021EB566A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CFCA411-FD49-4A83-977B-2FD021EB566A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CFCA411-FD49-4A83-977B-2FD021EB566A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CFCA411-FD49-4A83-977B-2FD021EB566A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5AF2019-DB7B-44B0-A72F-99C96EB02E85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5AF2019-DB7B-44B0-A72F-99C96EB02E85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5AF2019-DB7B-44B0-A72F-99C96EB02E85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5AF2019-DB7B-44B0-A72F-99C96EB02E85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E740E9C5-30A6-4DE3-9DF6-3C3A2029F2A8}
+	EndGlobalSection
+EndGlobal
